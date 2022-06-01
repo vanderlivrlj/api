@@ -1,0 +1,17 @@
+Adicionar dependencias no pom.xml
+
+
+criar pasta chamad resources
+
+dentro dela uma pasta chamad meta 
+
+criar um arquivo chamado beans.xml
+
+
+
+como enviar um arquivo usando javascript 
+
+arquivo json
+
+
+servidor devolvendo somente os dados
